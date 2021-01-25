@@ -1,3 +1,5 @@
+Hello!
+
 # Example Node Cashier Plugin
 
 ## Getting started
